@@ -69,7 +69,7 @@ To use the Crypto Arbitrage app, the user must upload CSV files with price infor
 
 Sumayyah Muhammad - [@somayaann][linkedin-url] - sumayyahmuhammadts@gmail.com
 
-Project Link: [https://github.com/smuhammad1/loan_qualifier_application](https://github.com/smuhammad1/crypto_arbitrage)
+Project Link: [https://github.com/smuhammad1/crypto_arbitrage]
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
