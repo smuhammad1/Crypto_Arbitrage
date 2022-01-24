@@ -64,6 +64,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Usage
 To use the Crypto Arbitrage app, the user must upload CSV files with price information to the Resource folder. The app will then automatically do the analysis, plot the charts, and calculate the profits.
 
+Reference to "Analysis Report" in jupyter notebook, "Screenshot Of Plot"
+<img width="702" alt="Screen Shot 2022-01-23 at 9 39 15 PM" src="https://user-images.githubusercontent.com/96351123/150729515-2619c8e5-6e9e-4d74-bf92-1a7decbf07b8.png">
+
+
 <!-- CONTACT -->
 ## Contact
 
